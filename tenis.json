@@ -1,0 +1,112 @@
+{
+  "tenis": [
+    {
+      "marca": "Nike",
+      "modelo": "Air Force 1",
+      "preco": "R$ 499,90",
+      "categoria": "casual"
+    },
+    {
+      "marca": "Nike",
+      "modelo": "Air Max 90",
+      "preco": "R$ 599,90",
+      "categoria": "corrida"
+    },
+    {
+      "marca": "Nike",
+      "modelo": "Court Vision",
+      "preco": "R$ 449,90",
+      "categoria": "basquete"
+    },
+    {
+      "marca": "Nike",
+      "modelo": "Blazer Mid",
+      "preco": "R$ 399,90",
+      "categoria": "skate"
+    },
+    {
+      "marca": "Nike",
+      "modelo": "Nike SB",
+      "preco": "R$ 459,90",
+      "categoria": "skate"
+    },
+    {
+      "marca": "Nike",
+      "modelo": "Nike Dunk",
+      "preco": "R$ 549,90",
+      "categoria": "basquete"
+    },
+    {
+      "marca": "Adidas",
+      "modelo": "Gazelle",
+      "preco": "R$ 379,90",
+      "categoria": "casual"
+    },
+    {
+      "marca": "Adidas",
+      "modelo": "Superstar",
+      "preco": "R$ 449,90",
+      "categoria": "casual"
+    },
+    {
+      "marca": "Adidas",
+      "modelo": "Adidas Samba",
+      "preco": "R$ 329,90",
+      "categoria": "casual"
+    },
+    {
+      "marca": "Adidas",
+      "modelo": "Adidas Break Start",
+      "preco": "R$ 299,90",
+      "categoria": "casual"
+    },
+    {
+      "marca": "Adidas",
+      "modelo": "Adidas NMD",
+      "preco": "R$ 599,90",
+      "categoria": "corrida"
+    },
+    {
+      "marca": "Adidas",
+      "modelo": "Adidas Tensaur",
+      "preco": "R$ 259,90",
+      "categoria": "casual"
+    },
+    {
+      "marca": "Jordan",
+      "modelo": "Travis Scott x Air Jordan 1 Retro High Dark Mocha",
+      "preco": "R$ 3499,90",
+      "categoria": "colaboração"
+    },
+    {
+      "marca": "Jordan",
+      "modelo": "Off-White x Air Jordan 4",
+      "preco": "R$ 4999,90",
+      "categoria": "colaboração"
+    },
+    {
+      "marca": "Jordan",
+      "modelo": "Air Jordan 4 Retro 95' Neon",
+      "preco": "R$ 1399,90",
+      "categoria": "basquete"
+    },
+    {
+      "marca": "Yeezy",
+      "modelo": "Yeezy 700 v3",
+      "preco": "R$ 2499,90",
+      "categoria": "corrida"
+    },
+    {
+      "marca": "Yeezy",
+      "modelo": "Yeezy 700 v1",
+      "preco": "R$ 1999,90",
+      "categoria": "casual"
+    },
+    {
+      "marca": "Yeezy",
+      "modelo": "Yeezy 500 Stone Salt",
+      "preco": "R$ 1799,90",
+      "categoria": "casual"
+    }
+  ]
+}
